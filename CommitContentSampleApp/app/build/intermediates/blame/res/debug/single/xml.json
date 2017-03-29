@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/satheeshwaran/Downloads/CommitContentSampleApp/app/build/intermediates/res/merged/debug/xml/file_paths.xml",
+        "source": "/Users/satheeshwaran/Downloads/CommitContentSampleApp/app/src/main/res/xml/file_paths.xml"
+    },
+    {
+        "merged": "/Users/satheeshwaran/Downloads/CommitContentSampleApp/app/build/intermediates/res/merged/debug/xml/method.xml",
+        "source": "/Users/satheeshwaran/Downloads/CommitContentSampleApp/app/src/main/res/xml/method.xml"
+    },
+    {
+        "merged": "/Users/satheeshwaran/Documents/Personal/MyGitRepos/ImageKeyboard-Android/CommitContentSampleApp/app/build/intermediates/res/merged/debug/xml/file_paths.xml",
+        "source": "/Users/satheeshwaran/Documents/Personal/MyGitRepos/ImageKeyboard-Android/CommitContentSampleApp/app/src/main/res/xml/file_paths.xml"
+    },
+    {
+        "merged": "/Users/satheeshwaran/Documents/Personal/MyGitRepos/ImageKeyboard-Android/CommitContentSampleApp/app/build/intermediates/res/merged/debug/xml/method.xml",
+        "source": "/Users/satheeshwaran/Documents/Personal/MyGitRepos/ImageKeyboard-Android/CommitContentSampleApp/app/src/main/res/xml/method.xml"
+    }
+]

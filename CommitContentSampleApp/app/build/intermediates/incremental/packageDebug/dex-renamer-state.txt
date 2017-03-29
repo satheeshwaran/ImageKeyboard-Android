@@ -1,0 +1,7 @@
+#Sun Mar 26 19:30:58 IST 2017
+base.0=/Users/satheeshwaran/Downloads/CommitContentSampleApp/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_b1ba9e81397f1d5f6c2107f246898a87d64cd76f
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=/Users/satheeshwaran/Downloads/CommitContentSampleApp/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_8be22e638fa7dcf49c308905f56abac8a23b6393/classes.dex
+base.1=/Users/satheeshwaran/Downloads/CommitContentSampleApp/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_8be22e638fa7dcf49c308905f56abac8a23b6393
+file.0=/Users/satheeshwaran/Downloads/CommitContentSampleApp/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_b1ba9e81397f1d5f6c2107f246898a87d64cd76f/classes.dex

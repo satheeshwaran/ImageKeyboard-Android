@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "/Users/satheeshwaran/Downloads/CommitContentSampleApp/app/build/intermediates/res/merged/debug/raw/animated_webp.webp",
+        "source": "/Users/satheeshwaran/Downloads/CommitContentSampleApp/app/src/main/res/raw/animated_webp.webp"
+    },
+    {
+        "merged": "/Users/satheeshwaran/Downloads/CommitContentSampleApp/app/build/intermediates/res/merged/debug/raw/animated_gif.gif",
+        "source": "/Users/satheeshwaran/Downloads/CommitContentSampleApp/app/src/main/res/raw/animated_gif.gif"
+    },
+    {
+        "merged": "/Users/satheeshwaran/Documents/Personal/MyGitRepos/ImageKeyboard-Android/CommitContentSampleApp/app/build/intermediates/res/merged/debug/raw/dessert_android.png",
+        "source": "/Users/satheeshwaran/Documents/Personal/MyGitRepos/ImageKeyboard-Android/CommitContentSampleApp/app/src/main/res/raw/dessert_android.png"
+    },
+    {
+        "merged": "/Users/satheeshwaran/Documents/Personal/MyGitRepos/ImageKeyboard-Android/CommitContentSampleApp/app/build/intermediates/res/merged/debug/raw/animated_webp.webp",
+        "source": "/Users/satheeshwaran/Documents/Personal/MyGitRepos/ImageKeyboard-Android/CommitContentSampleApp/app/src/main/res/raw/animated_webp.webp"
+    },
+    {
+        "merged": "/Users/satheeshwaran/Downloads/CommitContentSampleApp/app/build/intermediates/res/merged/debug/raw/dessert_android.png",
+        "source": "/Users/satheeshwaran/Downloads/CommitContentSampleApp/app/src/main/res/raw/dessert_android.png"
+    },
+    {
+        "merged": "/Users/satheeshwaran/Documents/Personal/MyGitRepos/ImageKeyboard-Android/CommitContentSampleApp/app/build/intermediates/res/merged/debug/raw/animated_gif.gif",
+        "source": "/Users/satheeshwaran/Documents/Personal/MyGitRepos/ImageKeyboard-Android/CommitContentSampleApp/app/src/main/res/raw/animated_gif.gif"
+    }
+]

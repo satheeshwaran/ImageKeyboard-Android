@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/satheeshwaran/Downloads/CommitContentSampleApp/app/build/intermediates/res/merged/debug/mipmap-xxhdpi/ic_launcher_round.png",
+        "source": "/Users/satheeshwaran/Downloads/CommitContentSampleApp/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/satheeshwaran/Downloads/CommitContentSampleApp/app/build/intermediates/res/merged/debug/mipmap-xxhdpi/ic_launcher.png",
+        "source": "/Users/satheeshwaran/Downloads/CommitContentSampleApp/app/src/main/res/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/satheeshwaran/Documents/Personal/MyGitRepos/ImageKeyboard-Android/CommitContentSampleApp/app/build/intermediates/res/merged/debug/mipmap-xxhdpi/ic_launcher_round.png",
+        "source": "/Users/satheeshwaran/Documents/Personal/MyGitRepos/ImageKeyboard-Android/CommitContentSampleApp/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/satheeshwaran/Documents/Personal/MyGitRepos/ImageKeyboard-Android/CommitContentSampleApp/app/build/intermediates/res/merged/debug/mipmap-xxhdpi/ic_launcher.png",
+        "source": "/Users/satheeshwaran/Documents/Personal/MyGitRepos/ImageKeyboard-Android/CommitContentSampleApp/app/src/main/res/mipmap-xxhdpi/ic_launcher.png"
+    }
+]

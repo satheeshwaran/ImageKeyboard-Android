@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/satheeshwaran/.android/build-cache/0a52ba1a9d242ff64dd98a6e79ea9bbf36d3d46f/output/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f2e3b9bc1ec25f652e8007ce7774c991e38f6a00">
+        <dex dex="/Users/satheeshwaran/Downloads/CommitContentSampleApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.0_4f04166281c8b7474f7f02fa0a5020aff8c13aef/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/satheeshwaran/.android/build-cache/2e1dc224d77ae14224bbc46019844bb48b384a5e/output/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3b61a70884adaf0be3fc06c70c801e3e6df13133">
+        <dex dex="/Users/satheeshwaran/Downloads/CommitContentSampleApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.0_42e0152eba7bbc27c74cd6ab9f44ccc5df3fb4eb/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/satheeshwaran/.android/build-cache/672f26d148f368831d05d9141881db4b32b31015/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/satheeshwaran/Downloads/CommitContentSampleApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_748bb6be3da6446ebaca77de1e8c6fe4dbda16f6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/satheeshwaran/Downloads/CommitContentSampleApp/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c82741bc129dd5f99f11a4ab8666ae24262053b6">
+        <dex dex="/Users/satheeshwaran/Downloads/CommitContentSampleApp/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_b1ba9e81397f1d5f6c2107f246898a87d64cd76f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/satheeshwaran/.android/build-cache/11282f5811018d167c4fa4c2aeccc7db6a7d9212/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="76fb65a4b41ea42dab8a1310ed772a2420c96b52">
+        <dex dex="/Users/satheeshwaran/Downloads/CommitContentSampleApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_2f20e1556c9eef00d469f84b8407f55876e7a81a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/satheeshwaran/.android/build-cache/ad863851e897529d2fd049575f3b662cbda1a766/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="26674000177e45447a0326a6ad84612761199a13">
+        <dex dex="/Users/satheeshwaran/Downloads/CommitContentSampleApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_39ca04884038bdbec0e6b69c42a78d021edf4b10/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/satheeshwaran/.android/build-cache/ad863851e897529d2fd049575f3b662cbda1a766/output/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="/Users/satheeshwaran/Downloads/CommitContentSampleApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.0_0c41615c855539134916cc6839c7410f7d7c50c5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/satheeshwaran/Downloads/CommitContentSampleApp/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="9e6e4245f9a3d88bc46e3700cd763df575af0735">
+        <dex dex="/Users/satheeshwaran/Downloads/CommitContentSampleApp/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_8be22e638fa7dcf49c308905f56abac8a23b6393/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/satheeshwaran/.android/build-cache/72a1c7f0ab854bd0645ac220b9507f64728fb801/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d29714cc76b38157e3cbd034c66e1ec808eb4c19">
+        <dex dex="/Users/satheeshwaran/Downloads/CommitContentSampleApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_8679928cce287ef56eb5f4057a13eb8831df7137/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/satheeshwaran/.android/build-cache/11282f5811018d167c4fa4c2aeccc7db6a7d9212/output/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="665d21a8a069c96b4d9e8b434f5096d865b4e261">
+        <dex dex="/Users/satheeshwaran/Downloads/CommitContentSampleApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.0_40318f38fca92cf3b4d2294bd312e4b095afab1d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/satheeshwaran/.android/build-cache/fa3c3a0eca2518cec74429bf8f401f9628e45d3e/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="53a420cd4f49274db6bd43475f8006ba67ef6bbd">
+        <dex dex="/Users/satheeshwaran/Downloads/CommitContentSampleApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_ad5f3c6bc1b7dcb4fd526826f859e45de928d0bb/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/satheeshwaran/.android/build-cache/0a52ba1a9d242ff64dd98a6e79ea9bbf36d3d46f/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="75b1f366ff0bbc78f8b1f7cf0dc82e7c53afef6a">
+        <dex dex="/Users/satheeshwaran/Downloads/CommitContentSampleApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_10602ec2cc49fb598f933bb9a3fbecdba24b87a6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/satheeshwaran/.android/build-cache/2e1dc224d77ae14224bbc46019844bb48b384a5e/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4ccbcda5c72027c7f7c14be9ff8640d9cb0d8da0">
+        <dex dex="/Users/satheeshwaran/Downloads/CommitContentSampleApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_0a01aa98167fe566f2570bca4ce6eecdd80da2e0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/satheeshwaran/.android/build-cache/703f28560e4cc574b851bd40824bf2566fb73fec/output/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="67355078cd30daae43f62ba47a4663ee6edb976e">
+        <dex dex="/Users/satheeshwaran/Downloads/CommitContentSampleApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.0_b75d3ea64675b7ab534fdb282692ebbba9f005fa/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/satheeshwaran/.android/build-cache/703f28560e4cc574b851bd40824bf2566fb73fec/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6ac094121e75b4b87432beb9305d70c68ec6dcab">
+        <dex dex="/Users/satheeshwaran/Downloads/CommitContentSampleApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_40ab62369f842806d5c60c232f9fd887bfc4eaeb/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/satheeshwaran/.android/build-cache/16f0c8ededeecf345eaf191a723b20c83db7305c/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8bc45ce1f63d1a391fd38b32a201be5a42f9c95d">
+        <dex dex="/Users/satheeshwaran/Downloads/CommitContentSampleApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_b00bd43e61d670504ba768b53b783071738451df/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/satheeshwaran/.android/build-cache/90ac09a6393d1492ee4b17adaf19af562302aec3/output/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ee5faf4dee5b6a4364bf51587871047dde7c703a">
+        <dex dex="/Users/satheeshwaran/Downloads/CommitContentSampleApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.0_fd93e68125c8b67a56d604858bc183a3363cb2fd/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/satheeshwaran/.android/build-cache/90ac09a6393d1492ee4b17adaf19af562302aec3/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="07daa0b6e1d455c82a38422ffe287c18823d339a">
+        <dex dex="/Users/satheeshwaran/Downloads/CommitContentSampleApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_3af9f0019eb6e5fab4259c6e5a5d6aa022807f0c/classes.dex" />
+    </item>
+
+</items>
